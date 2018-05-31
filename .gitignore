@@ -28,5 +28,9 @@ hs_err_pid*
 # Directories
 #
 
+# Ignore Test Files
+test-file.txt
+
 
 # End of https://www.gitignore.io/api/java
+/build/

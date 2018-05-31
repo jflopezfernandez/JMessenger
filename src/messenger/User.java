@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-package messenger.user;
+package messenger;
 
 /**
  *
